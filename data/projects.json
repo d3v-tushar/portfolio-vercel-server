@@ -1,0 +1,29 @@
+[
+    {
+        "id": "project01-phoneseeker",
+        "name": "Phone Seeker",
+        "title": "Used Phone Reselling Multivendor Website",
+        "livesite": "https://www.phone-seeker.web.app",
+        "image": "https://i.ibb.co/SmPTvSb/Web-capture-12-12-2022-17332-phone-seeker-web-app.jpg",
+        "tech": ["ReactJS", "Firebase", "ExpressJS", "NodeJS", "MongoDB", "Tailwind", "JWT", "React-Router-DOM", "Toastify", "React Query"],
+        "discription": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, making it look like readable English. A search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+    },
+    {
+        "id": "project02-pixelcloud",
+        "name": "Pixel Cloud",
+        "title": "Wedding Photography Agency Dynamic Website",
+        "livesite": "https://www.pixel-cloud-photography.web.app",
+        "image": "https://i.ibb.co/QmfPrkd/Web-capture-12-12-2022-175259-pixel-cloud-photography-web-app.jpg",
+        "tech": ["ReactJS", "Firebase", "ExpressJS", "NodeJS", "MongoDB", "Tailwind", "JWT", "React-Router-DOM", "Toastify", "React Query"],
+        "discription": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, making it look like readable English. A search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+    },
+    {
+        "id": "project03-beyondbasics",
+        "name": "Beyond Basics",
+        "title": "Used Phone Reselling Multivendor Website",
+        "livesite": "https://www.bayond-basics.web.app",
+        "image": "https://i.ibb.co/1RTJGBd/Web-capture-12-12-2022-173130-bayond-basics-web-app.jpg",
+        "tech": ["ReactJS", "Firebase", "ExpressJS", "NodeJS", "MongoDB", "Tailwind", "JWT", "React-Router-DOM", "Toastify", "React Query"],
+        "discription": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, making it look like readable English. A search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+    }
+]
